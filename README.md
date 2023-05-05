@@ -8,8 +8,6 @@ L’objectif est de comprendre les différents types d’utilisateurs grâce à 
 
 Nous devons fournir à l’équipe marketing une description actionnable de notre segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
 
-**Problème**
-
 Cette analyse de segmentation de la clientèle passe en revue le comportement d’achat. 
 
 **Plan**
